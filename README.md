@@ -1,0 +1,2 @@
+# VibrationEffect
+Shake!
